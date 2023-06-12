@@ -1,0 +1,1857 @@
+<----------------------------------------------------------------------------->
+%
+"A step backwards is still a step, and my fitness tracker still counted it 
+ towards my daily goal." -- Simone Giertz
+%
+"Alcohol is God's apology for making us self-aware." -- James May
+%
+"They don't give PHDs to the smartest people, they give them to the most
+ stubborn."
+%
+"I am haunted by your incompetence, it keeps me up at night. I find the hues 
+ and shades of your shortcomings almost moving. 
+
+ If we could only somehow  harness your uselessness, we could fuel this entire 
+ city!" -- Heimdall, God Of War: Ragnarok
+%
+"Germans, of course, have no love life. They can't, since whispering 'I love 
+ you' to your sweetie sounds just the same as telling her that you wish to 
+ eviscerate her corpse and place the head on a spear in the front yard as a 
+ warning to others." -- Dan Sorenson
+%
+"I'd rather adjust to your absence than be continously frustrated by your 
+ presence."
+%
+"Underpromise, but overdeliver."
+%
+"Always code as if the person who ends up maintaining your code is a violent 
+ psychopath who knows where you live."
+%
+"Failure is the condiment that gives success its flavour." -- Truman Capote
+%
+"Great stories happen to those who can tell them."
+%
+"A yawn is just a silent scream for coffee."
+%
+"If it were that easy, even you could do it." -- Jack Daniel
+%
+"Just because you're trash doesn't mean you can't do great things. It's called 
+ garbage can, not garbage can't."
+%
+"A software developer is a machine for converting ambiguity into 'that's not 
+ what I meant'" -- Julian Russell
+%
+"Do not go gentle into that good night,
+ Old age should burn and rave at close of day;
+ Rage, rage against the dying of the light." -- Dylan Thomas
+%
+"All this time and all this money and your rise to the top has been a meandering
+ jog on a treadmill." -- John Oliver, Last Week Tonight
+%
+"The cheaper the crook, the gaudier the patter" -- Sam Spade, The Maltese Falcon
+%
+"Lazy is such an ugly word - I prefer the term selective participation."
+%
+"Paranoia is a skill, it is the secret to longevity."
+%
+"We feel free when we escape, even if it be but from the frying pan into the 
+ fire."
+%
+"Before you write your Internet comment, ask yourself this: "Will this really 
+ quell the endless tide of callow insecure rage in my heart?" -- Sinan Kubba
+%
+"Trust is an illusory grudge cried by those who take comfort in false 
+ certainty." -- Mozzie, White Collar
+%
+"It's not peer pressure, it's just your turn."
+%
+"Developers should be exposed to the pain that they cause." -- Brunton Spall on
+developers taking responsiblity for their systems
+%
+"Congress is like jazz - it's really about the bills it's not passing. It's
+ also like jazz in that most people hate it and anyone who says they don't
+ are lying." -- John Oliver
+%
+"What you've just said is one of the most insanely idiotic things I have ever 
+ heard. At no point in your rambling, incoherent response were you even close 
+ to anything that could be considered a rational thought. Everyone in this room 
+ is now dumber for having listened to it. I award you no points, and may God 
+ have mercy on your soul." -- Billy Madison
+%
+"DHS has all the power of Ann Landers. They can advise and you can ignore 
+ it." -- Robert Clark
+%
+"QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 
+ beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv."
+%
+"You're talking in a tone that implies an authority I don't think you have, 
+ Dr. Williams." -- Hand of God
+%
+"Are you talking to me or are you writing a Facebook post?" -- Chase in House
+%
+"Trying to understand the behavior of some people is like trying to smell 
+ the color 9."
+%
+"From the moment I saw you, I knew I was going to spend the rest of my life
+ avoiding you."
+%
+"LSD causes users to lose weight. That makes sense - it's kind of hard to get 
+ to the fridge when there's a dragon guarding it."
+%
+>> It's quick, it's easy and it's free: pouring river water in your socks.
+> Why would you do that?
+It's quick, it's easy and it's free!
+%
+"Imagine a horror movie where you're trapped in your house with a serial 
+ killer, but all your lights are clappers. So you're running for your life 
+ from this psychopath, while both of you are just aggressively clapping the 
+ lights on and off." -- The Average Gatsby
+%
+"Turn your binoculars around. See, now the tigers are smaller and futher 
+ away. You've got to be smart to survive in the rainforest." -- doglets
+%
+"People say dolphins are smart, but they're not smart enough not to be shitty 
+ grey rubber tubes flapping about in the goddamn ocean." -- reallyreallytrying
+%
+"Allergies are weird as heck. You can snap a human leg in half and they can 
+ recover but if you eat a peanut you're dead." -- Silversora
+%
+You are at work. There are emails to the North.
+> answer email
+Three more appear.
+> answer emails
+Twelve more appear.
+> run
+You cannot run.
+%
+"I never forget a face, but in your case I'd be glad to make an 
+ exception." -- Groucho Marx
+%
+"The measure of your compassion lies not in your service of those in the
+ margins, but in your willingness to see yourself in kinship with 
+ them." -- Father Greg Boyle, S.J.
+%
+"Guilt is something small people feel when they run out of excuses for their
+ behaviour." -- Number Six, Battlestar Gallactica
+%
+"Kidnapping? I prefer the term 'surprise adoption'."
+%
+"Abashed the devil stood and felt how awful goodness is and saw Virtue in 
+ her shape how lovely: and pined his loss." -- John Milton, Paradise Lost
+%
+"I'm not calling you an idiot but we should use people like you to test if 
+ stuff is safe."
+%
+"The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", 
+ "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be 
+ interpreted as described in RFC 2119."
+%
+"Never trust a developer who tells you that any of the following are easy: 
+ Unicode, dates/times/time zones, threading, DNS, IPv6, debugging." -- Coates
+%
+"The music is all around us. All you have to do is listen." -- August Rush
+%
+"The government lies to you about the extent of its surveillance of you. The 
+ government says it needs secrecy, but lies about its secrets. The government 
+ says it needs expanded powers to fight terrorism, but lies: in fact it uses 
+ expanded "anti-terrorism" powers to advance a variety of domestic 
+ agendas. Terrorism is whatever the government says it is." -- Popehat
+%
+The greatest danger of drugs is that they destroy the most important thing in
+ life: the power to decide. The most precious thing you have is the power 
+ to choose." -- Paulo Coelho
+%
+"Experience: that most brutal of teachers. But you learn, my God do you 
+ learn." -- C.S. Lewis
+%
+"Don't waste hospital time. You've done this to yourself, don't be a pussy. 
+ Ride it out!" -- Steve Ludwin on inducing heart attacks, breathing problems,
+ paralysis.
+%
+"What doesn't kill you fucks you up mentally and affects your ability to have 
+ stable relationships with other human beings."
+%
+"Synthesizer sounds were like someone had invented a colour that nobody has
+ ever seen."
+%
+"Activity suggests a life filled with purpose."
+%
+"On one hand I dislike abortion because it gives women a choice, and on the 
+ other I like it because it kills babies."
+%
+"You may be right, but the thing is Wendell, I don't give a shit. And I 
+ never have." -- Runaway Jury
+%
+"Anger and jealousy do not last forever, but a gunshot fired in an impulsive 
+ rage often does." -- Huffington Post
+%
+"The best way to get management excited about a disaster plan is to burn down
+ the building across the street." -- Dan Erwin, CSO, Dow Chemical (2008)
+%
+"There are only two hard things in Computer Science: cache invalidation, 
+ naming things, and off-by-one errors."
+%
+"A woman is not a vagina that happens to have the downside of a personality
+ attached to it like a parasite." -- Cracked
+%
+"Sorry, but your password must contain an uppercase letter, a number, a 
+ punctuation mark, a gang sign, an extinct mammal, a hieroglyph and the blood
+ of a virgin."
+%
+"Age is just a number, maturity is a choice."
+%
+"Seriously - JavaScript was designed by sociopaths." -- Marcus Lagergren
+%
+"I've never wished a man dead, but I have read some obituaries with great 
+ pleasure." -- Mark Twain
+%
+"Cleverly disguised as a responsible adult."
+%
+"God may well have his reasons, but he seems to use a lot of psychotics to
+ carry out his job orders." -- Fox Mulder, X-Files, S05E17
+%
+"If your neighbor was a terrorist would you support drone strikes?"
+%
+"So, you're obviously the big dick. And there on either side of you are your
+ balls. There are two types of balls. There are big, brave balls, and there 
+ are little, mincy faggot balls. You're dicks have driving clarity of vision. 
+ But they're not clever; they smell pussy, and they want a piece of the 
+ action. And you thought you smelled some good ol' pussy, and have brought 
+ your two little, mincey, faggot balls along for a good ol' time. But you've 
+ got your parties muddled up. There's no pussy here- just a dose that will 
+ make you wish you were born a women. Like a prick, you're having second 
+ thoughts. You're shrinking, and your two little balls are shrinking with ya. 
+ And the fact that you've got "Replica" written on the side of your guns. And 
+ the fact that I've got "Desert Eagle .50" written on the side of mine, should 
+ precipitate your balls into shrinking, along with your presence. 
+ Now fuck off!" -- Bullet-Tooth Tony, Snatch
+%
+"When people get too chummy with me I like to call them by the wrong name to 
+ let them know I don't really care about them." -- Ron Swanson
+%
+"Never underestimate the bandwidth of a station wagon full of tapes hurtling 
+ down the highway." --Andrew S. Tanenbaum
+%
+"Security is mostly a superstition. It does not exist in nature, nor do the 
+ children of men experience it as a whole. Life is either a daring adventure, 
+ or nothing." -- Helen Keller
+%
+"Home is acceptance." -- Searching for Sugar Man
+%
+"Three may keep a secret if two of them are dead." -- Benjamin Franklin
+%
+"A tiger doesn't lose sleep over the opinion of sheep." -- Zag
+%
+"You're more of a fun vampire, because you don't suck blood, you just suck."
+%
+"For those wondering how Kay Burley sleeps at night. It's hanging upside down 
+ by her talons, in a lair after feasting on unicorn steak." -- Justin Moorhouse
+%
+"Saying that Java is good because it works on all platforms is like saying anal 
+ sex is good because it works on all genders." -- Lamont Cranston
+%
+"Love is like a lost fart - if you have to force it, it's probably shit."
+%
+<markand> which kind of authentification FreeBSD developers use for svn access?
+<Aprogas> Whenever an incoming connection is made, a truthsayer kills a bird and 
+          looks at the intestines to predict whether the access attempt is 
+          legitimate or not.
+%
+"The problem with email is that someone else is involved." -- Tiga
+%
+"Immature: a word boring people use to describe fun people."
+%
+"People don't stop partying because they get old; they get old because they
+ stop partying." -- The Matches
+%
+"I'm not upset that you lied to me, I'm upset that from now on I can't 
+ believe you." -- Friedrich Nietzsche
+%
+"Sometimes the brightest light comes from the darkest places."
+%
+"'Sexist' is just a word that women made up to summarise the terms 'Facts' 
+ and 'Reality'."
+%
+"Im not sexist, I just wish women would stop whining about doing the things 
+ they were born to do."
+%
+"There's nothing wrong with you, there's a lot wrong with the world you live 
+ in." -- Chris Colfer
+%
+"Try to avoid introducing yourself to strangers in the bathroom with "the 
+ darker the berry, the sweeter the juice." -- Holy Taco
+%
+"Picture a hamster in an exercise wheel. Running, running, running, running,
+ and getting nowhere at all. That's sysadmin" -- Greg Andrews
+%
+"Life is like sendmail: you're not sure you know how to handle it, but you know
+ it'll end in tears." -- Malcolm Ray
+%
+"Bell Atlantic. If telecommunications were a prison, BA would be the 
+ 300-pound inmate who takes a certain..."liking" towards you." -- Isaac-Lew
+%
+"My group's mission statement - 'You want *what*? By *WHEN* ?'" -- Simon Burr
+%
+"It's like autism, or that point just before overdosing on 
+ cocaine." -- Chris Vickery
+%
+"I am a misanthropic humanist....Do I like people? They're great, IN 
+ THEORY." -- Bill Hicks
+%
+"All lives end. All hearts are broken. Caring is not an advantage, Sherlock."
+%
+""My eyes are up here." Yeah, I know, but your boobs are down there."
+%
+"How many cops does it take to change a lightbulb? None, they just beat the 
+ room for being black." -- TerrorTone
+%
+"Wordpress is an unauthenticated remote shell that, as a useful side feature, 
+ also contains a blog" -- Azonberg
+%
+"If you always do what you've always done, then you always get what you've 
+ always got." -- Tony DiNozzo, NCIS
+%
+"It's not how big you are in the fight, it's how big the fight is in you."
+%
+"Every passing minute is a chance to turn it all 
+ around." -- Tom Cruise, Vanilla Sky
+%
+"The funniest are people making multiple spelling errors while complaining 
+ about your writing. It's like the Hindenburg's captain criticizing your 
+ fire safety." -- Luke McKinney, Cracked
+%
+"Delay is the deadliest form of denial." -- C. Northcote Parkinson
+%
+"Nothing inspires forgiveness quite like revenge." - Scott Adams
+%
+"Now could we perhaps change that in childhood, get women to think logically? 
+ I don't know. We still need loving, nurturing mommies, and I'm not sure you 
+ can pack too many male characteristics into a female body and still get a 
+ mommy." http://www.jeanhsu.com/2011/08/04/why-startups-should-try-to-hire-women/
+%
+"Fairy tales do not tell children the dragons exist. Children already know that 
+ dragons exist. Fairy tales tell children the dragons can be 
+ killed." -- G. K. Chesterton
+%
+"You, like my mother, communicate in short bursts of incomprehensible English 
+ that have no obvious response or call to action" -- John Siracusa
+%
+"I've written enough PHP in anger to know about the language" -- John Siracusa
+%
+"Write every commit message like the next person who reads it is an 
+ axe-wielding maniac who knows where you live." -- Unknown
+%
+"Patriotism is the virtue of the vicious." -- Oscar Wilde
+%
+"Religion flies you into buildings, science flies you into space."
+%
+"It's hard to see the difference between sarcasm and real stupidity on the 
+ Internet. So I have no idea whether you're joking or if you're actually an 
+ idiot." -- IMDb forums
+%
+"In science it often happens that scientists say, 'You know that's a really 
+ good argument; my position is mistaken,' and then they would actually change 
+ their minds and you never hear that old view from them again. They really do 
+ it. It doesn't happen as often as it should, because scientists are human 
+ and change is sometimes painful. But it happens every day. I cannot recall 
+ the last time someting like that happened in politics or religion." 
+                - Carl Sagan, 1987 CSICOP Keynote Address
+%
+"unzip, strip, touch, finger, grep, mount, fsck, more, yes, fsck, fsck, fsck,
+ umount, sleep"
+%
+"The woods are lovely, dark and deep, 
+ But I have promises to keep, 
+ And miles to go before I sleep, 
+ And miles to go before I sleep." -- Robert Frost
+
+%
+"Look. at your comment. Back to. mine. Back to yours NOW BACK TO MINE. Sadly, 
+ it isn't mine. But. if you stopped trolling and started posting legitimate 
+ crap it could LOOK like. mine. Look down, back. up, where are you? You're 
+ scrolling through comments, finding. the. ones that your comment could look 
+ like. Back at mine, what is it? It's a highly effective. counter-troll. 
+ Look.. again,. MY COMMENT IS NOW DIAMONDS. Anything. is possible when you 
+ think before you comment or post."
+%
+"XML is like violence. If it doesn't solve your problem, you're just not using
+ it enough."
+%
+"The thing is to be prepared always to help other people if there's an
+ opportunity to do so." -- Nicholas Winton, MBE
+%
+"Don't be content in your life just to do no wrong, be prepared every day to 
+ try and do some good." -- Nicholas Winton, MBE
+%
+"It's easy to know what drugs you should never try. There are advertisements 
+ for them on television." -- @YoungMansGuide
+%
+"Don't worry about integrity, this is the internet, anything goes."
+%
+"Activision's Bobby Kotick hates developers, innovation, cheap games, you."
+%
+"The definition of insanity is doing the same thing over and over and 
+ expecting the outcome to be different."
+%
+"Seriously... statistics are like when you're mowing your lawn and you hit a 
+ rock and it just goes FLYING across the yard. You're clenched up hoping it 
+ doesn't hit your car but secretly hoping that the neighbor's dog (the one 
+ that has the acidic pee that turns your grass yellow) gets annihilated."
+%
+"Weekend: the time when consuming copious amounts of illicit products becomes 
+ socially acceptable." -- Cracked
+%
+"I have mod points. The reign of terror begins now."
+%
+"Evil is the absense of empathy." -- Friday, Murder investigation
+%
+"Eew, It's like there's a party in my mouth and everyone's throwing 
+ up." -- Philip J. Fry
+%
+"I used to do drugs. I still do, but I used to, too." -- Mitch Hedberg
+%
+"I love work. It fascinates me; I can sit and look at it for 
+  hours." -- Jerome K. Jerome
+%
+"This is not something to be tossed aside lightly. It should be thrown, with 
+ great force." -- Dorothy Parker
+%
+"Tequila isn't a drink, it's a way to bring the police around without using 
+ the telephone." -- Dylan Moran
+%
+"My doctor says im a paranoid shizophrenic. Ok, he didn't actually say it, but 
+ WE knew he was THINKING IT!!" -- Robert Ranking
+%
+"Always remember that things go more smoothly if you both have something to 
+ lose. Try to involve her in a crime, not a civil one, because felonies are 
+ forever."
+%
+"Husbands get more benefit from marriage than wives, such as a valuable, 
+ constant stream of constructive criticism. Always said in either a 
+ high pitched voice, or between clenched teeth."
+%
+"Why, I'd've hardly known what was wrong with me if it wasn't for my 
+ ex-wife. Thanks, honey."
+%
+"Divorce is expensive because it's worth it."
+%
+"No man is complete until he is married.. then he is finished."
+%
+"After marriage, husband and wife become two sides of a coin; they just can't 
+ face each other, but still they stay together." -- Sacha Guitry
+%
+"When a man steals your wife, there is no better revenge than to let him keep 
+ her." -- David Bissonette
+%
+"There are two things that can get you out of any situation; duct tape and 
+ WD-40. If it moves and shouldn't - duct tape it. If it should move and 
+ doesn't - WD-40."
+%
+"If I agreed with you we'd both be wrong."
+%
+"The last thing I want to do is hurt you. But it's still on the list."
+%
+"Bad laws are a gateway drug to complete social collapse."
+%
+"The loudness of a ringtone is directly proportional to how truly awful the 
+ music being played is." 
+%
+"The loudness of a ringtone is inversely proportional to the likelihood of a 
+ phone being answered."
+%
+"What I do is Good and Pure; what they do is Bad and Dirty." -- Paul Carr
+%
+"I just had an argument with a girl I know. She was saying how it's unfair 
+ that if a guy fucks a different girl every week, he's a legend, but if a girl 
+ fucks just two guys in a year, she's a slut. So in response I told her that 
+ if a key opens lots of locks, then it's a master key. But if a lock is opened 
+ by lots of keys, then it's a shitty lock. That shut her up." -- Twig
+%
+"The Internet is just the world passing around notes in a classroom" 
+-- Jon Stewart
+%
+"Distrust yourself, and sleep before you fight. 'Tis not too late tomorrow to
+ be brave." -- Susan Travers
+%
+"Buying trance is a lot like buying a car. Don't buy American."
+%
+"I like your Christ, I do not like your Christians. Your Christians are so 
+ unlike your Christ." -- Ghandi
+%
+"Passion is inversely proportional to the amount of real information 
+ available." -- Benford's law of controversy
+%
+"It's not a lie if you believe it." -- George Costanza
+%
+"I don't get racism. There's so many reasons to not like people, and you 
+ choose color?" -- Guy on This American Life
+%
+"The hardest thing in this world is to live in it." -- Dawn Summers
+%
+"It could be that the purpose of your life is only to serve as a warning
+ to others" -- Despair Inc.
+%
+"News is what somebody somewhere wants to suppress; all the rest is 
+ advertising." -- Alfred Harmsworth, 1st Viscount Northcliffe
+%
+"After silence, that which comes nearest to expressing the inexpressible 
+ is Music." -- Aldous Huxley
+%
+"Life can be great, but not when you can't see it. So, open your eyes to life: 
+ to see it in the vivid colors that God gave us as a precious gift to His 
+ children, to enjoy life to the fullest, and to make it count. Say yes to your 
+ life. And when it comes to drugs and alcohol just say no." -- Nancy Reagan
+%
+<CtrlAltDestroy> Here is my impression of Wikipedia.
+<CtrlAltDestroy> "There are five fingers on the human hand [citation needed]"
+%
+"I'm willing to accept there are people smarter than myself, I just haven't 
+ met them yet."
+%
+"If I've learned anything, it's that we can never let the chaos and injustice 
+ make us so blind with anger that we become part of the problem. Understanding
+ compassion, kindness and love are the only true revolutionary ideas.""
+%
+"Arguing on the internet is like running at the special olympics. Even if you 
+ win, you're still retarded."
+%
+"A conclusion is simply the place where you got tired of 
+ thinking." -- Thomas Edison
+%
+"My opinions may have changed, but not the fact that I'm 
+ right." -- Ashleigh Brilliant
+%
+"[Anonymity] merely serves to take all responsibility from the man who cannot 
+ stand by what he has said." -- Schopenhauer
+%
+"MTV is to music as KFC is to chicken." -- Lewis Black
+%
+"Women are like teabags. We don't know our true strength until we are in hot 
+ water!" -- Eleanor Roosevelt
+%
+"Women are like the police, they could have all the evidence in the world but 
+ they still want the confession." -- Chris Rock
+%
+"Technical support is the art of talking to people who are already angry at 
+ you, about a subject that frightens them, while attempting to maintain the 
+ illusion that you know what the hell you're talking about." -- Steighton Haley
+%
+"I hate to advocate drugs, alcohol, violence or insanity to anyone, but they've
+ always worked for me." -- Hunter S. Thompson
+%
+Regex is latin for "saw off thine limbs"
+%
+"Ahh, IRC, Kind of like downloading porn on limewire, When you open it up, you
+ are never quite sure what you're going to see, but odds are good that it will 
+ scar you for life."
+%
+"My body is not my temple, its more like my bar and grill."
+%
+"Be a pessimist and you'll never be disappointed."
+%
+"CAPS LOCK IS CRUISE CONTROL FOR COOL."
+%
+"The real trouble with reality is that there's no background music."
+%
+"Bad grammar makes me [sic]"
+%
+"Facts do not cease to exist because they are ignored." -- Aldous Huxley
+%
+"Experience is not what happens to a man; it is what a man does with what 
+ happens to him." -- Aldous Huxley
+%
+"Ye shall know the truth, and the truth shall make you mad." -- Aldous Huxley
+%
+"Trying to make digital files uncopyable is like trying to make water not 
+ wet." -- Bruce Schneier <http://www.schneier.com/essay-126.html>
+%
+If a kid asks where rain comes from, I think a cute thing to tell him is "God 
+is crying." And if he asks why God is crying, another cute thing to tell him 
+is "Probably because of something you did." -- Jack Handy
+%
+"Beware the Four Horsemen of the Information Apocalypse: terrorists, drug 
+ dealers, kidnappers, and child pornographers. You can be assured that no 
+ right is safe, nor investigative method over the line, when one of the 
+ horsemen is involved." -- Bruce Schneier (paraphrased)
+%
+"The sum of our experiences is all we are."
+%
+"Democracy is two wolves and a lamb voting on what to have for lunch. Liberty 
+ is a well-armed lamb contesting the vote."
+%
+"Matter will be damaged in direct proportion to its value."
+%
+"Activities suggest a life filled with purpose."
+%
+"It's not who you are underneath, it's what you do that defines you." 
+%
+"I'm European. Guns scare me, boobs do not."
+%
+"Leaving sex to the feminists is like letting your dog vacation at the 
+ taxidermist." -- Matt Barry 
+%
+"The most terrifying words in the English language are: I'm from the government
+ and I'm here to help." -- Ronald Reagan
+%
+"Trust, but verify." -- Ronald Reagan
+%
+"Ex experientia dico." -- I'm speaking from experience
+%
+"To steal ideas from one person is plagiarism; to steal from many is research."
+%
+"The internet does not make you stupid, it just makes your stupidity more
+ accessible to others."
+%
+"The only thing necessary for the triumph of evil is for good men to do 
+ nothing." -- Edmund Burke
+%
+"We must not always judge of the generality of the opinion by the noise of 
+ the acclamation." -- Edmund Burke
+%
+"I'm not trying to be a pessimist, I'm just trying not to be ... 
+ optimistic." -- John Huerta
+%
+"The computer *is* the game." -- Tom Christiansen
+%
+"Never underestimate the bandwidth of a station wagon full of backup tapes 
+ hurling down the highway." -- Andrew S. Tanenbaum
+%
+"Ladies.. if God didn't want you to cook, then why'd he put milk and eggs in 
+ your body?"
+%
+"Pilots should avoid using illegal drugs." -- AOPA's Pilot's Handbook, 1988
+%
+"After silence, that which comes nearest to expressing the inexpressible is
+ music." -- Aldous Huxley
+%
+"Society is wrong about us, but we shall overcome the lies. Politicians with 
+ a false morality they will only fuel the fire. No one can stop us now, it 
+ will only lift us higher. FIRE is what i am, FIRE is what I breath, the HEAT 
+ is what I bring." - Luna, "Now is the time"
+%
+"Non ex transverso sed deorsum."
+%
+"A single death, after all, is a tragedy. A million deaths is a U.N.
+ committee report. Nicely bound. With graphs and pictures." - Lileks
+%
+"I know it's an illness but it's made me feel well."
+%
+"sar-chasm" - the huge, empty space between what I said and what you somehow
+managed to miss.
+%
+"New corollary to Godwin: As criticism of any issue increases, the likelihood 
+ of the Bush Administration linking it to 9/11 approaches 100 percent."
+%
+"This post may contain inaccurate information, be habit forming, cause atomic
+ warfare between peaceful countries, speed up male pattern baldness, interfere
+ with your cable reception, exile you from certain third world countries, ruin 
+ your marriage, and generally spoil your day. No batteries included, no 
+ strings attached, your mileage may vary."
+%
+"Three dimensions. The defence rests, your honour."
+%
+"our extensive research has shown that failure in relationships is directly 
+ proportional to the number of Alt codes one has memorized"
+%
+"[disclaimer: current body uptime: 29.5 hours]"
+%
+"I love the net, it always makes me come off as a better person than I 
+ really am."
+%
+"By the way, we went to Iraq to liberate its citizens, piracy hurts the 
+ artists and stagehands more than the movie execs, those who need privacy have 
+ something to hide, rise in global temperature since the Industrial Revolution 
+ is just coincidence, and I'm really really good in bed." -- mattwarden, /.
+%
+"If you want to live on the cutting edge, prepare to bleed."
+%
+"If it wasn't backed-up, then it wasn't important."
+%
+"There is a very, very heavy cost to the process of devaluing information that 
+ comes from the government. Lincoln was right. Government trust is a precious 
+ resource and there's a question about how much of it we want to squander in 
+ telling kids not to use drugs." -- public policy expert Mark Kleiman, Ph.D.
+%
+"The speed of sound is defined by the distance from door to computer divided 
+ by the time interval needed to close the media player and pull up your pants 
+ when your mom shouts "OH MY GOD WHAT ARE YOU DOING""
+%
+"You don't frighten us, pig-dogs! Go and boil your bottom, sons of a silly 
+ person. I blow my nose at you! I don't wanna talk to you no more, you empty 
+ headed animal food trough wiper! I fart in your general direction! Your mother 
+ was a hamster and your father smelt of elderberries! Now, go away, or I shall 
+ taunt you a second time!"
+%
+"If you happen to know who he is -- we're assuming it's a he, since most she's 
+ have better things to do -- please, let us know. And if you see him, please 
+ accidentally throw something sharp at him."
+%
+"And let's describe Attila the Hun as someone with 'an active, outdoor 
+ lifestyle.'" -- George Carlin
+%
+Reality is for people who can't handle Star Trek.
+%
+"Vegetarians for oral sex: The only meat that's fit to eat"
+%
+"In LA girls like to say 'I'm not religious but I'm spiritual.' I like to 
+ reply 'I'm not honest but you're interesting.'
+%
+Being a Windows administrator is like sleeping with a fat girl. You do it, 
+but you don't brag to your friends about it.
+%
+"An Australian relief effort is knitting sweaters to protect the feathers of 
+ penguins who are being affected by an oil spill. The sweaters are being 
+ refused by many penguins who'd rather die then dress casual." - Conan O'Brien
+%
+"Happiness is like peeing yourself. Everybody can see it but only you can feel 
+ its warmth."
+%
+This answering machine has been connected to a 5,000 volt power supply that 
+has been wired to this small kitten (pathetic mewing). If you don't leave a 
+message, Fluffy here gets it. The choice is yours.
+%
+Due to the confusion from too many genres of music, we have decided to put 
+both country music and rap music into the genre of Crap music.
+%
+When did I realize I was God? Well, I was praying and suddenly realized that I 
+was talking to myself.
+%
+The difference between British and Americans is, Americans think a hundred 
+years is a long time, and the British think a hundred miles is a long drive.
+%
+Wooden shoe rather be Dutch?
+%
+"Everytime they shut down a torrent site, god murders a lawyer."
+%
+"I once bought my kids a set of batteries for Christmas with a note on it 
+ saying: «Toys not included.»" -- Bernard Manning
+%
+"A much wittier reply came to mind immediately after I clicked the «Send» 
+ button."
+%
+"Hardware: the parts of a computer that can be kicked." - Jeff Pesis
+%
+"The Internet is better than TV: you can brainwash it back."
+%
+"Why is American beer served cold? So you can tell it from urine." - D. Moulton
+%
+"I once wanted to become an atheist but I gave up. They have no holidays."
+%
+"Anyone who goes to a psychiatrist ought to have his head 
+ examined." -- Samuel Goldwyn
+%
+"When I die, I want to die like my grandfather who died peacefully in his 
+ sleep. Not screaming like all the passengers in his car."
+%
+"There are only two reasons to sit in the back row of an airplane: Either you 
+ have diarrhea, or you're anxious to meet people who do." -- Henry Kissenger
+%
+"Im not lost. Im just locationally challenged."
+%
+"Reading SCO news is like watching the crazy guy arguing with himself. Fun to 
+ watch, but only from a safe distance."
+%
+"IRC is multiplayer notepad."
+%
+"IRC, communication for the unwashed generation."
+%
+"Welcome to IRC where men are men, women are men and little girls are FBI 
+ agents."
+%
+"It's not Hollywood.  War is real, war is primarily not about defeat or 
+victory, it is about death.  I've seen thousands and thousands of dead bodies.
+Do you think I want to have an academic debate on this subject?" -- Robert Fisk
+%
+"Calling someone and telling them to "get a life", in response to a NANOG 
+ post, is like a  parapalegic telling me I walk funny." -- Michael Boots
+%
+"It's threatening and romantic! It's threatmantic!"
+%
+"This is why men never share their feelings; because women always remember." 
+ - Just Shoot Me.
+%
+"Ability to type on a computer terminal is no guarantee of sanity, 
+ intelligence, or common sense."
+%
+"When Microsoft Office is your only hammer, pretty much everything begins to 
+ look like a nail. Or a thumb." -- Rob Pegoraro
+%
+"That said, every indication has been that the Internet moves faster than its 
+ opponents -- faster even than its promoters. Not only are the horses out of 
+ the barn, but the barn itself is moving at Mach-3." -- Rick Bradley
+%
+"There's no underestimating the intelligence of the American public."
+  -- H.L. Mencken (1880-1956)
+%
+"When I close my eyes, 
+ I am at the center of the sun. 
+ And I cannot be hurt by 
+ anything this wicked world has done" 
+  -- Conjure One, "Center of the Sun"
+%
+"Maybe not today, maybe not tomorrow, but soon, watery vengeance will 
+ be mine!"
+%
+"I touch the fire and it freezes me." - SMG in Walk Through The Fire
+%
+"When Little Red Riding Hood went to her Grandmother's house and found out she 
+ saw a wolf instead of her grandma, she realized she witnessed the first known 
+ case of identity theft." 
+%
+Buffy: Can you cry? Sometimes I feel better when I cry. But... there might be 
+       rust issues.
+April: Crying is blackmail. Good girlfriends don't cry.
+%
+"Everything is people"
+%
+"Openbox is just nifty on a 27" monitor. It's like 'Hellloooo, screenspace!'
+ - staked on #gentoo
+%
+"I'm sitting here completely surrounded by no beer." -- Keeping up appearances
+%
+From a letter to the editor in the Boston Globe 11 January 2003 commenting 
+on news reports of American miltary pilots being given amphetamines: Gives a 
+whole new meaning to "Winning the war on drugs." 
+%
+"Look! It moved! So it can't be completely dead." -- Slashdot about BSD
+%
+"I live in my own little world, but it's ok. They know me here."
+%
+"If you can't beat them - avoid them."
+%
+"I begynnelsen var verden et spennende sted å oppholde seg. Så kom 
+ vitenskapen."
+%
+"The worst foe lies within the self." - Parasite Eve
+%
+"Wakey-Wakey, hands off Snakey!"
+%
+"There's no bad weather, there's only bad clothing."
+%
+"Bus error (Passengers dumped)."
+%
+"We are the DoS in the DoS com."
+%
+"You might as well call it the "I would rather stab myself in the eye 
+ repeatedly with a pencil than pay this, but i have no choice fee" fee."
+%
+"We eat bandwith for breakfast."
+%
+Q: Why couldn't the 11 year old get into the pirate movie?
+A: It was rated 'Arrr'.
+%
+The sun oozed over the horizon, shoved aside darkness, crept along the 
+greensward, and, with sickly fingers, pushed through the castle window, 
+revealing the pillaged princess, hand at throat, crown asunder, gaping in 
+frenzied horror at the sated, sodden amphibian lying beside her, disbelieving 
+the magnitude of the frog's deception, screaming madly, "you lied, you lied, 
+you lied"!
+%
+DeMoCrAcy? Yeah, right.
+%
+Q: "What do you think when you see a pretty girl walking down the street?"
+A:. "One side of me says, 'I'd like to talk to her, date her.' The other side 
+     of me says, 'I wonder how her head would look on a stick?'" -- E. Kemper
+%
+"No one can do to the Disney Corporation what Walt Disney did to the 
+ Brothers Grimm." -- Lawrence Lessig (http://www.eff.org/IP/freeculture/)
+%
+"Why don't we take a vote?" I suggested.
+"No!" said David. "That's not fair because the majority will win!" 
+%
+"A man, a plan, a canal, Panama!"
+%
+"Are we not drawn onward, we few, drawn onward to new era?"
+%
+"Bush, Ashcroft, Rumsfeld: The Axis of Idiocy" -- as heard on IRC
+%
+"Care must be exorcised when handring Opiticar System as it is apts to be
+sticked by dusts and hand-fat." Translation: "Keep your fingers off the lens."
+%
+"99 GBs of pr0n on the disk, 99GBs of pr0n, take some down, download it 
+ around, 100GBs of pr0n on the disk! 100GBs of pr0n on the disk, 100GBs of 
+ pr0n..." -- NodeReaper on perlmonks.org
+%
+"If someone has no clue that rm -rf / means tabula rasa, should they have root
+ on a production server in the first place?" -- Aristotle on perlmonks.org
+%
+"Rule #17 of Travel: Never try and score dope off Hassidic Jews while under 
+ the impression that they are Rastafarians." - Pete McCarthy, McCarthy's Bar
+%
+"Don't put your tongue in a socket. The taste of power is too refined for 
+ you."
+%
+"Bad artists copy. Good artists steal." - Elwood P Dowd
+%
+"Life is a creation, not a commodity. Our children are not products to be 
+ designed and manufactured." -- George W. Bush (4/10/02)
+%
+"If you think my silence is weakness, you mistake me." -- Travis [Deliverance]
+%
+"We are unable to come to the phone right now.  At the tone, please leave your 
+ name, number, and Master Card, Visa, or American Express account number and 
+ we'll get back to, pending credit approval."
+%
+"Hello.  I'm David's answering machine.  What are you?"
+%
+What went wrong?
+I relied on other people.
+    -- Blake and Avon  [Space Fall]
+%
+"Restraining orders are just another way of saying I love you."
+%
+"Management is not responsible for lost or stolen virginity."
+%
+"This signature has been tested on animals."
+%
+"I'm not a vegetarian because I love animals, I'm a vegetarian because I hate 
+ vegetables!"
+%
+"I didn't spend two hundred million years clawing my way to the top of the 
+ food chain to eat vegetables!"
+%
+"Vegetables are what food eats."
+%
+"A vegetarian friend of mine, upon seeing me chow down on some Swedish 
+ meatballs, said -- and I shit you not -- "Can't you hear them screaming?"
+%
+"Although the mini-survival kit in the Parachute Pack DID have a single condom 
+ in it, the idea was to use it for water storage. [...] In a life-or-death 
+ situation, nothing beats spermicide-flavoured water." -- a.s.r.
+%
+"When someone is holding a gun on you, it is wise to comply with his directions
+ precisely, and not improvise your own course of action.  If they don't teach 
+ this principle at the Criminal Academies, they ought to." -- a.s.r.
+%
+"The CVS spam.el is fairly stable (well, it's broken, and that's a sort of 
+ stability, isn't it? :)" -- Ted Zlatanov on gnus.ding
+%
+"I have never understood the female capacity to avoid a direct answer to any 
+ question." -- Spock
+%
+"I am not a fanatic, I am a true believer."
+%
+"Web development with PHP is like injecting pure rust with a high-pressure 
+ hose. For pain relief."
+%
+"I suck. I can't code.  I don't know what I'm talking about.  I'm a washed
+ out sell out capitalizing on my 10 seconds of fame for writing some crappy
+ advisories and some shitty perl code.  But because I write perl code
+ doesn't mean I can code.  Because I can't code.  And I have a small penis."
+   -- Rain Forest Puppy
+%
+"First time I read it I thought it said "RIAA sues the galaxy". Funny thing is,
+ I didn't think it was strange."
+%
+"A nuclear war can ruin your whole day."
+%
+"2001 was the warmest year since 1653 (or thereabouts) which begs the question, 
+ exactly who or what was emitting CO2 at present day levels back then?"
+%
+"Drive defensively.  Buy a tank."
+%
+"Which is worse: ignorance or apathy?  Who knows?  Who cares?"
+%
+wok, n.:
+        Something to thwow at a wabbit.
+%
+"Do you believe in intuition?"
+"No, but I have a strange feeling that someday I will."
+%
+Error -2147483630 reading header: cpio: failed - Success
+%
+"Lord of the Rings (2001): rated PG-13 for epic battles"
+%
+"Running Windows on a Pentium is like having a brand new Porsche but only be 
+ able to drive backwards with the handbrake on."
+%
+"Yeah, but you're taking the universe out of context."
+%
+"Isn't it funny how Microsoft's strongest supporters are the ones who don't 
+ legally own any Microsoft software?"
+%
+"... a cross-platform game engine that require Windows with DirectX 8.1 ..."
+%
+"If NASA asks you the answer to the universe, tell them its 42." -- Ars 
+Technica Forums
+%
+"... I inadvertedly yelled out "Dammit, I wish I just had a Mac." ..."
+%
+"I came, I saw, I ran away screaming"
+%
+Maintainer's Motto:
+        If we can't fix it, it ain't broke.
+%
+Stallman: "God told me I programmed the best editor in the world!"
+Torvalds: "Well, God told *me* that I programmed the best OS in the world!"
+Knuth: "Wait, wait - I never said that."
+%
+"Inform all the troops that communications have completely broken down."
+%
+"In the beginning the Universe was created. This has made a lot of people
+ very angry and been widely regarded as a bad move." - Douglas Adams
+%
+"...systems wrongly configured with Microsoft SQL Server software..." -- ZDNet
+%
+"This message has been ROT-26 encoded. Any attempt to decode it is subject to 
+ prosecution under the DMCA"
+%
+"FATAL ERROR: x86 Architecture Found."
+%
+"This isn't right.  This isn't even wrong." -- Wolfgang Pauli
+%
+"Windows XP (less popular than anthrax, there's a testimonial for you)"
+        -- The Register
+%
+"Give a man a match, and he'll be warm for a minute, but set him on fire, and 
+ he'll be warm for the rest of his life." -- Terry Pratchett
+%
+"The world is coming to an end.  Please log off."
+%
+"Never settle with words what you can accomplish with a flame thrower."
+%
+"All I want is a warm bed and a kind word and unlimited power" 
+  -- Ashleigh Brilliant
+%
+43rd Law of Computing:
+        Anything that can go wr
+Segmentation violation -- Core dumped
+%
+"Just tighten your fists, squint your eyes, press your lips together, turn 
+ beet red, quiver, pound the table, adjust your white cap and scream: "It 
+ can't be! Blackhats can't code!"" -- Aliver on the Full-Disclosure list
+%
+"(3) With sufficient thrust, pigs fly just fine. However, this is not 
+ necessarily a good idea. It is hard to be sure where they are going to land, 
+ and it could be dangerous sitting under them as they fly overhead." - RFC1925
+%
+"I have no tolerance for right wing publications and pundits that constantly 
+ spew a vicious, Manichean view of the world, and I don't tolerate it on the 
+ left, either. Oversimplification is for the weak." -- Rafe Colburn (rc3.org)
+%
+"The Internet is a great way to get on the Net." -- Bob Dole
+%
+"I had occasion to write today, 'Best viewed through the bottom of a beerglass'
+ about a website that had another one of those binary Windows-only
+ plugins." -- Paul Martin, in the Monastery
+%
+"'Stewardesses' is the longest word that is typed with only the left hand."
+%
+"A chicken is an egg's way of producing more eggs."
+%
+"Artificial intelligence is no match for natural stupidity."-- Unknown
+%
+"The surest sign that intelligent life exists elsewhere in the universe is 
+ that it has never tried to contact us." -- Calvin & Hobbes
+%
+"A philosopher is a blind man in a dark room looking for a black cat that is 
+ not there " --William James (1842-1910)
+%
+"Men, we are surrounded by the enemy, We have the greatest opportunity ever 
+presented to any army. We can attack in any direction." -- Brig. Gen. Anthony 
+ McAuliffe, Battle of the Bulge, WWII.
+%
+"The difference between 'involvement' and 'commitment' is illustrated by an 
+eggs-and-ham breakfast: the chicken was 'involved' - the pig was 'committed'."
+%
+"The Internet is an unpredictable place, but we try hard to make 
+it work the way it does in movies. Thanks."
+%
+"World peace has been delayed until further notice."
+%
+"To alcohol! The cause of - and solution to - all of life's 
+problems!"                                     -- Homer Simpson
+%
+"You know you have an alcohol problem if you're fridge is empty."
+%
+"We're not net nazis. We're dot communists."
+%
+"Morning's a state of mind."
+%
+"Once a month we become irrational, just like women." 
+                                         -- Loaded magazine
+%
+"Internet is so big, so powerful and pointless that for some people 
+it is a complete substitute for life."
+%
+"It's better to have loved and lost, than to be gang raped in a 
+Turkish prison."
+%
+This message has been ROT-13 encrypted twice for extra security.
+%
+As usual, I can not take responsibility for any of this. If for some 
+reason this causes something to drink all your beer and sleep with your 
+girlfriend, it's not my problem =)
+%
+"If you are afraid of loneliness, don't marry."
+-- Chekhov
+%
+"Yay verily and was much work done, and several projects signed 
+off. And there was much rejoicing. And QA came unto thy programming 
+team and talked about having a post project dissection of 'what we 
+could do better'. A great shadow fell across the land and the hackers 
+fled into the darkest corners of the offices."		-- Alan Cox
+%
+"no amount of Zen contemplation will ever make you at one
+ with a 3c905B ethernet card." --- Alan Cox
+%
+"Education is very important. School, however, is another matter." 
+-- Unknown
+%
+"My English teacher once told me that two positives don't make a 
+negative. Two words for her: Yeah, right."
+%
+"The main reason Santa is so jolly is because he knows where all the 
+bad girls live." 
+%
+Richard hesitated at the bottom of the stairs and peered upward into the
+surrounding gloom. Too many little agonies to remember of that fateful night
+so long ago. To the boyscout he had been, and the man he now was, only
+preparation mattered. A defibrulator in one hand and a live chicken in the
+other he put one foot on the bottom stair and made his way up. Now they
+would all pay! 
+%
+The Geeks will inherit the earth, but they will only have read access 
+%
+Help, I'm trapped inside an IT startup... 
+%
+"In God We Trust, Others We Monitor"
+%
+"Its really sad to see such a sweet machine crippled by lack of proper
+mouse buttons."  -- Slashdot about the new Apple PowerBook G4
+%
+-- Support your government, give Echelon / Carnivore something to parse --
+classfield  top-secret government  restricted data information project CIA
+KGB GRU DISA  DoD  defense  systems  military  systems spy steal terrorist
+Allah Natasha  Gregori destroy destruct attack  democracy will send Russia
+bank system compromise international  own  rule the world ATSC RTEM warmod
+ATMD force power enforce  sensitive  directorate  TSP NSTD ORD DD2-N AMTAS
+STRAP warrior-T presidental  elections  policital foreign embassy takeover
+%
+"God, root, what is difference?"
+%
+"OSI: same-day delivery in a millisecond world" -- Phil Karn
+%
+"Computer games don't affect kids. I mean if Pacman affected us as kids, 
+we'd all be running around in darkened rooms, munching pills and listening
+to repetitive music." -- Marcus Brigstocke
+%
+"If Sweden continues to take in foreigners, then I will move to a country
+ that doesn't".	     -- unknown Swedish Nazi
+%
+The advantage of exercising every day is that you die healthier.
+%
+Quidquid latine dictum sit, altum viditur.
+(Whatever is said in Latin sounds profound.)
+%
+"Hard work pays off in the future.  Laziness pays off now."
+%
+"Join the Army, meet interesting people, kill them."
+%
+"Success always occurs in private, and failure in full view."
+%
+Your lucky number is 3552664958674928. Watch for it everywhere.
+%
+If you drink, don't park. Accidents cause people.
+%
+ (
+  )
+c[]
+%
+"Yes, I am drunk. But you, Madam, are ugly, and in the morning I shall be
+ sober."     -- Winston Spencer Churchill
+%
+Programmers often confuse Christmas and Halloween: 31oct equals 25dec!
+%
+Potatoes are wonderful. If not for them we'd have no fries or vodka.
+%
+"Caution: Cape does not enable user to fly." - Batman Costume warning label
+%
+No matter how one approaches the figures, one is forced to the rather
+startling conclusion that the use of firearms in crime was very much
+less when there were no controls of any sort and when anyone,
+convicted criminal or lunatic, could buy any type of firearm without
+restriction.  Half a century of strict controls on pistols has ended,
+perversely, with a far greater use of this weapon in crime than ever
+before.
+        -- Colin Greenwood, in the study "Firearms Control", 1972
+%
+"But," Matt says, "the server is located on Sealand.  They can't touch 
+me!" "Oh, yes, they can," points out Matt's lawyer. "They might have 
+difficulty touching your server -- at least for now -- but they can 
+definitely touch you, <...> And, if you're not careful, you'll be sent 
+to a facility where a large man named 'Spike' will also touch you on a 
+nightly basis."   --  about Matt Goyer's plan to move Napster offshore
+%
+37% of your base are belong to IRS.
+%
+Operator: Somebody set up us the bomb. 
+%
+Cats: All your base are belong to us. 
+%
+Captain: For great justice. 
+%
+perl -le '$_="6110>374086;2064208213:90<307;55";tr[0->][ LEOR!AUBGNSTY];print'
+%
+"Darling, sex between two people can be a beautiful thing, but between four
+people... fantastic!"  -- Bette Midler in "For the Boys"
+%
+Rehab is for Quitters
+%
+I may be fat but you're ugly, and I can lose weight.
+%
+Never fight ugly people for they have nothing to loose
+%
+I don't suffer from insanity, I enjoy every minute of it.
+%
+"Documentation is like sex: when it is good, it is very, very good; and
+when it is bad, it is better than nothing."  -- Dick Brandon
+%
+"You don't make peace with your friends." -- Prime Minister Yitzhak Rabin
+before a peace meeting with PLO Chairman Yasser Arafat at The Whitehouse.
+%
+#!/usr/bin/env perl
+$_="6110>374086;2064208213:90<307;55";tr[0->][ LEOR!AUBGNSTY];$|=1;for(split//)
+{for($j=35;--$j>$i;){print"\e[K\e[0;${j}H$_";select'','','',.01}$i++}print"\n";
+%
+Windows NT crashed.
+I am the Blue Screen of Death.
+No one hears your screams.
+       -- Haiku by Peter Rothman
+%
+"I love deadlines. I love the whooshing noise they make as they go by."
+%
+We should all understand that the following line is intended to lead directly 
+to total gun confiscation: "It's an ugly, bad, mean gun that's made with the 
+sole purpose of killing nice people in a mean way. It's not like you'd take
+that AK duck hunting, is it?"  --  From a discussion in rec.guns
+%
+"In the Navy portable meant there was a handle on it somewhere. If you welded 
+a handle to the flight deck we could make a label for 'Carrier, aircraft,
+portable. Extremely heavy, lift with care'.  Much like the 'portable' test rig
+we used that weighed on the order of 280 lbs." - alt.sysadmin.recovery quote
+%
+"What temperature does VC money burn at?"
+%
+At first there was nothing. Then God said 'Let there be light!'
+ Then there was still nothing. But you could see it.
+%
+Johnny took a drink,
+But he will drink no more,
+For what he thought was H2O,
+Was H2SO4.
+%
+'SYN! .. SYN|ACK! .. ACK!' - the mating call of the internet
+%
+"Bones heal, chicks dig scars, pain is temporary but glory is forever!"
+%
+Muhammad Ali visited the ruins of the World Trade Center on Thursday. When 
+reporters asked how he felt about the suspects sharing his Islamic faith, 
+Ali responded pleasantly, "How do you feel about Hitler sharing yours?" 
+%
+/(bb|[^b]{2})/
+%
+"Mary had a crypto key, she kept it in escrow, and everything that Mary 
+said, the Feds were sure to know."
+%
+It's bad luck to be superstitious.
+%
+One of the symptoms of alzheimers is repeating yourself. One of the 
+symptoms of alzheimers is repeating yourself.
+%
+Cynical: a word used by the frightened to describe the realistic.
+%
+"Illegitimis non carborundum"
+%
+"It's Not Paranoia If They're Really After You"
+%
+"The only privacy left is inside of your head"
+%
+Reassessing your goals during the dot-com doom: "My long-term financial
+goals? I'd like to make it until payday"
+%
+"Great Overseer of Development"
+%
+"Talk is cheap because supply exceeds demand."
+%
+"Go lease your own planet."
+%
+"Open Source. Closed Minds. We are Slashdot."
+%
+"Usenet is like a herd of performing elephants with diarrhea --
+ massive, difficult to redirect, awe-inspiring, entertaining, and a
+ source of mind-boggling amounts of excrement when you least expect
+ it." --spaf (1992)
+%
+"Don't sweat it -- it's not real life.  It's only ones and zeroes."
+%
+"In cyberspace, *everyone* can hear you scream."
+%
+"The Internet *isn't* *free*.  It just has an economy that makes no sense 
+to capitalism."
+%
+"Go not to UseNet for counsel, for they will say both `No' and `Yes' and 
+`Try another newsgroup'."
+%
+"Cogito ergo disclamo"
+%
+"Computers in the future may weigh no more than 1.5 tons."
+ - Popular Mechanics, 1949
+%
+"Hey, I know this! This is Unix!" - Jurassic Park
+%
+"Why do we have to hide from the police, Daddy?"
+"Because we use emacs, son. They use vi." - Ian Scott
+%
+"Linux hackers are funny people: they count the time in 
+patchlevels." - Gerd Knorr
+%
+"The Linux philosophy is 'laugh in the face of danger'. Oops. 
+Wrong one. 'Do it yourself'. That's it." - Linus Torvalds
+%
+"Linux isn't a product.  Linux is an organic part of a software 
+ecosystem." - Unknown
+%
+"People standing in the middle of the road look like roadkill" - Linus Torvalds
+%
+"Black holes are where God divided by zero." - Steven Wright
+%
+"Where's the peer who keeps resetting my connection? I have a broken pipe 
+I'd like to beat him with." - Unknown
+%
+"Never ask a geek why, just nod your head and slowly back away." - Rob Malda
+%
+"Life's to short to dance with ugly women." - Unknown
+%
+"Software is like sex: it's better when it's free." - Linus Torvalds
+%
+"Only wimps use tape backup: _real_ men just upload their important stuff on 
+ftp, and let the rest of the world mirror it ;)" - Linus Torvalds
+%
+"Enjoy life. There's plenty of time to be dead." - Unknown
+%
+"When you get to the end of your rope, tie a knot and hang on."
+ - Franklin D. Roosevelt
+%
+"The most beautiful thing we can experience is the mysterious."
+ - Albert Einstein
+%
+"One thing you can't recycle is wasted time." - Anonymous
+%
+"The only way to have a friend is to be one." - Ralph Waldo Emerson
+%
+"Knowledge is power." - Francis Bacon
+%
+"A revolution is not a dinner party." -- Mao Tse Tung
+%
+"Don't believe the hype."
+%
+An American soldier in a hospital explained how he was wounded: He said,
+"I was told that the way to tell a hostile Vietnamese from a friendly
+Vietnamese was to shout 'To hell with Ho Chi Minh!' If he shoots, he's
+unfriendly. So I saw this dude and yelled 'To hell with Ho Chi Minh!'
+and he yelled back, 'To hell with President Johnson!' We were shaking
+hands when a truck hit us."
+%
+"This system operates under martial law. The constitution is suspended. You
+ have no rights except as declared by the area commander. Violators will be
+ shot. Repeat violators will be repeatedly shot...."        -from "A_W_O_L"
+%
+"The difference between genius and stupidity is that genius has its 
+limits." -- Anonymous
+%
+Thats my understanding. IANAL, YMMV, and I'm sure you've all got cousins 
+with personal stories that can debunk my raving lunacies ...
+%
+The government is acting on behalf of private interests. Ergo, dont blame the 
+government. Blame your neighbour.
+%
+I have not yet begun to procrastinate!
+%
+"It's better to have a gun and not need it than to need a gun and not
+have it." - Sir Clarence Worley
+%
+I'm not a dork, I'm a geek. Ask my girlfriend.
+%
+Try it! You will believe I tell the trust. Good bye! Success attend you!
+%
+Since year 2000 is now safely behind us, we can now resume coding the year 
+into 2 digit fields.
+%
+This message is not Y2K compliant.  Don't read it. PANIC !
+%
+Very few people debate "to be or not to be"; the vast majority seek to remain.
+%
+Way too much coffee.
+%
+        01234567 <- The amazing* indent-o-meter!
+        ^           (*: Indent-o-meter may not actually amaze.)
+%
+"Boromir, with three arrows in your chest, you ARE the Weakest Link, g'bye!"
+%
+"Life is unfair - but a root password helps!"
+%
+"Online, revenge is forever"
+%
+"Terrorists believe that anything goes in the name of their cause.
+ The fight against terror must not buy into that logic."
+ -- Human Rights Watch: <URL:http://hrw.org/press/2002/01/wr2002.htm>
+%
+"If men are from Mars and women are from Venus, there's going to be one big-ass 
+fight over where to set the thermostat. " -- Jim Rosenberg 
+%
+"I am hired because I know what I am doing, not because I will do whatever I am 
+told is a good idea. This might cost me bonuses, raises, promotions, and may 
+even label me as "undesirable" by places I don't want to work at anyway, but 
+I don't care. I will not compromise my own principles and judgement without 
+putting up a fight. Of course, I won't always win, and I will sometimes be
+forced to do things I don't agree with, but if I am my objections will be 
+known, and if I am shown to be right and problems later develop, I will shout 
+"I told you so!" repeatedly, laugh hysterically, and do a small dance or jig 
+as appropriate to my heritage."  -- Mike Sphar, re: Abigail's resignation 
+letter 
+%
+"I'm an apatheist. The question is no longer interesting, and the answer no 
+longer matters." -- pedro
+%
+People who are willing to rely on the government to keep them safe are pretty 
+much standing on Darwin's mat, pounding on the door, screaming, "Take me, take 
+me!" -- Carl Jacobs 
+%
+"Doing things randomly is what Admins do best." -- Joe more
+%
+"When all you have is a Swiss Army Knife, every problem looks like 
+email." -- Peter da Silva 
+%
+"I love the way Microsoft follows standards. In much the same manner that fish 
+follow migrating caribou." -- Paul Tomblin 
+%
+"A communications disruption can only mean one thing... 
+Invasion."  -- Lee Maguire, teaching us how to make people go away. 
+%
+"Remember - if all you have is an axe, every problem looks like hours of 
+fun." -- Frossie 
+%
+First time I've gotten a programming job that required a drug test. I was 
+worried they were going to say "you don't have enough LSD in your system to 
+do Unix programming". -- Paul Tomblin 
+%
+"We aim to please. Ourselves, mostly, but we do aim to please." -Anthony DeBoer 
+%
+"To rephrase, spam is not the answer. Spam is the question. Death is not the 
+answer, but pretty close to it. " -- Vadik 
+%
+"Keeping UUCP running is starting to seem a lot like keeping a 130-year-old 
+man who smokes 4 packs a day on life support because he's the last person on 
+Earth who knows how to do the cha-cha, but he won't tell anyone." --Ryan Tucker
+%
+"SMTP is cute, fluffy and goes Woof! When well treated she wags her tail, licks
+your face and delivers your mail. When badly treated by spammers or people 
+running exchange/<insert other pseudo-SMTP systems here>/etc she tends to bite 
+back." -- Simon Burr 
+%
+Disclaimer: We have no wish to offend you unless you're a twit. 
+%
+If at first you don't succeed, change the rules. 
+%
+Anarchy - It's not the law, it's just a good idea. 
+%
+The illegal we do immediately. The unconstitutional takes a little longer. 
+%
+It's not the principle of the thing. It's the money. 
+%
+Eat the rich. The poor are tough and stringy. 
+%
+All things considered, insanity may be the only reasonable alternative. 
+%
+Just because everything is different doesn't mean anything has changed. 
+%
+Sincerity is the key. Once you can fake that, you've got it made. 
+%
+The breakfast of champions is the opposition. 
+%
+If we do not change our direction we are likely to end up where we are headed. 
+%
+Power corrupts. Absolute power is kind of neat. 
+%
+Always do right. This will gratify many people, and astonish the rest. 
+%
+Ye shall know the truth, and the truth shall make you frantic. 
+%
+Decadence is its own reward. 
+%
+An honest politician is one who stays bought. 
+%
+Organize for anarchy! 
+%
+Circular definition: see "circular definition." 
+%
+Help! The paranoids are out to get me! 
+%
+According to the latest official figures, 43% of all statistics are totally 
+worthless. 
+%
+I don't see you, so don't pretend you're there. 
+%
+Tell the truth and run. 
+%
+He who hesitates is last. 
+%
+FNORD 
+%
+A wise man knows everything, a shrewd one, everybody. 
+%
+Moral victories don't count. 
+%
+All vacations and holidays create problems, except for one's own. 
+%
+Smile! The Illuminati are watching. 
+%
+Everything is controlled by a small evil group to which, unfortunately, no one 
+we know belongs. 
+%
+All syllogisms have three parts. Therefore, this is not a syllogism. 
+%
+I'll have to put something into their food to make them forget about this. 
+%
+We cheat the other guy and pass the savings on to you. 
+%
+Don't steal. The government hates the competition. 
+%
+Once you give up integrity, the rest is easy! 
+%
+A Smith and Wesson beats four aces. 
+%
+I don't suffer from insanity. I revel in it. 
+%
+Always be smarter than the people who hire you. But never let them know. 
+%
+The worst thing about censorship is XXXXXXXXXXXXXXXXX. 
+%
+Don't tell any big lies today. Small ones can be just as effective. 
+%
+Smile! It makes them wonder what you're up to. 
+%
+For every action there is an equal and opposite government program. 
+%
+A censor is a man who thinks he knows more than you ought to. 
+%
+If we knew what we were doing, it wouldn't be research. 
+%
+The less a politician amounts to, the more he loves the flag. 
+%
+Age and treachery will beat youth and skill every time. 
+%
+Forecasting is difficult, especially about the future. 
+%
+Are you sure? [N] Y 
+%
+What if this weren't a hypothetical question? 
+%
+All generalizations are incorrect, including this one. 
+%
+Join the Illuminati and see the world . . . differently. 
+%
+Friends come, and friends go, but enemies accumulate. 
+%
+Beware of the superficially profound. 
+%
+Truth is stranger than fiction, because fiction has to make sense. 
+%
+All law is codified revenge. 
+%
+Did you know that "gullible" isn't in the dictionary? Look it up. 
+%
+Hail Eris! All hail Discordia! 
+%
+If winning doesn't matter, why keep score? 
+%
+Objectivity is in the eye of the beholder. 
+%
+Smash the state, and have a nice day. 
+%
+Abandon all hope ye who PRESS ENTER here. 
+%
+No good deed goes unpunished. 
+%
+Thoughts good! Slogans bad! Thoughts good! Slogans bad! 
+%
+Gotta run, my government's collapsing. 
+%
+A friend is someone you call to help you move. A real friend is someone you 
+call to help you move a body. 
+%
+Defeat is worse than death, because you have to live with defeat. 
+%
+Eschew obfuscation! 
+%
+Someone you trust is one of us . . . 
+%
+This is a test. This is only a test. Had this been a real emergency, you would 
+all be dead by now. 
+%
+"Nature has made up her mind that what cannot defend itself shall not be 
+defended." -- Ralph Waldo Emerson
+%
+"Pray: To ask the laws of the universe to be annulled on behalf of a single 
+petitioner confessedly unworthy." - Ambrose Bierce
+%
+"Great spirits have always encountered violent opposition from mediocre 
+minds." Albert Einstein
+%
+"The truth does not change according to our ability to stomach 
+it." Flannery O'Connor
+%
+"Education is the ability to listen to almost anything without losing your 
+temper or your self confidence." - Robert Frost
+%
+"The greatest trick the devil ever played was convincing the world he didn't 
+exist." -The Usual Suspects 
+%
+"At first there was nothing. Then god said 'Let there be light!'. Then there 
+was still nothing, but at least you could see it" - Martin Dougiamas
+%
+"The Attorney for the Defense will quit referring the Prosecutor as 'Demon 
+Spawn from Hell!'" - Houston Judge to anti-choice attorney David Broderick
+%
+"Criminal: an individual with predatory instincts but not yet sufficient 
+capital to form a corporation" - Ambrose Bierce
+%
+"Baldric, you wouldn't recognize a subtle plan if it painted itself purple and 
+danced naked on a harpsicord singing `subtle plans are here again'" - BA IV
+%
+"God made Man to his image and likeness, and Man, being a gentleman, returned 
+the compliment"  Voltaire
+%
+"You ate my ear, murdered your wife, tried to frame me for it, and you're mad 
+because I lied?"
+%
+"My motherfucker is so cool that when he goes to bed sheep count *him*" 
+%
+"Reality is that which, when you stop believing in it, doesn't go away."
+ -- Philip K. Dick, "How to Build a Universe"     
+%
+Sleep is a poor substitute for caffeine.
+%
+Information may want to be free, but fiber optic cable wants to be one 
+million US dollars per mile. 
+%
+"Erin, you're a terrific person on the surface, but deep down you're 
+a woman" -- Titus
+%
+"Trust is a weakness"
+%
+"If you come from a Perl or PHP background, JSP is a way to take your
+ pain to new levels. --Anonymous"
+%
+"A lady came up to me on the street and pointed at my suede jacket. You
+know a cow was murdered for that jacket?' she sneered. I replied in a 
+psychotic tone, 'I didn't know there were any witnesses. Now I'll have 
+to kill you too."  --Jake Johansen 
+%
+"People stay married because they want to, not because the doors are 
+locked." -- Paul Newman ('Winning' - Movie)
+%
+"The only thing that holds a marriage together is the husband bein' big 
+enough to keep his mouth shut, to step back and see where his wife is 
+wrong." -- Archie Bunker ('All in the Family' - Television)
+%
+"[Marriage is] like signing a 356-page contract without knowing what's 
+in it." -- Kenneth Hartley Blanchard
+%
+"Women are like elephants. I like to look at 'em, but i wouldn't want to 
+own one." -- W.C. Fields
+%
+"Women in love consist of a little sighing, a little crying, a little 
+dying - and a good deal of lying." -- Ansey
+%
+Slashdot Karma Math:    50 + 3 - 3 = 47    50 - 3 + 3 = 50
+%
+If you have $500 worth of consumer-grade PC parts, showing them off 
+with a Plexiglass window and lighted PC case is just pathetic.
+%
+If you think that a handheld needs to play MP3s, you should hold off 
+buying one until you grow up.
+%
+A 14 year old kid with a net worth of $32 that pirated a copy of 
+a $3,000 software package deprived the publisher of $0.
+%
+Given enough time and discouragment, anyone can see when it's time
+to stop fighting the tide and get the fuck off the beach.  
+%
+There are 10 types of people in the world:
+Those who understand binary, and those who don't. 
+%
+"If you can't beat them, join them" I say don't join them, that 
+way you'll have the element of surprise.
+%
+"If you're not living on the edge, you're taking up too much space"
+%
+Grief is the price we pay for love.
+%
+Oh my god this is gonna be great, goodbye afternoon of productivity.
+%
+Love is a snowmobile racing across the tundra and then suddenly it
+flips over, pinning you underneath.  At night, the ice weasels 
+come. -- Matt Groening
+%
+Microsoft Vaccine 2000 is configuring your immune system. This may take a
+few minutes. If your body stops responding for a long time and there is no
+brain activity please die. Setup will continue after you are reborn.
+        -- Buzh, keeper of the moose. 
+%
+Jack Valenti is to the American film viewer and the American public as 
+the Boston strangler is to the woman home alone.  
+   (http://cryptome.org/hrcw-hear.htm) 
+%
+"It's about sex drugs and rock'n'roll, pure violence and brutal rapings. It's 
+ about building bombs, penetrating military protected buildings and taking 
+ over the world. The same thing we do every night pinkey."
+%
+"This is a pain which is going to linger." -- Pinky & The Brain
+%
+"Yes! This pain will definitely be with me." -- Pinky & The Brain
+%
+"If I could reach you, I would hurt you." -- Pinky & The Brain
+%
+"Some mice have more evolving to do than others." -- Pinky & The Brain
+%
+"Remember, I'm not just the president of the Small Club for Men, I'm also a
+ mouse planning world domination." -- P&B in The Helpinky Formula
+%
+Best viewed with Netscape 4.7 for UNIX/X on a 1280x1024 resolution with 
+24-bit color depth, maximum contrast, minimum brightness, in a 1000x960 
+window placed in the exact center of your display with this window manager 
+configuration [etc.]
+%
+People who are willing to rely on the government to keep them safe are 
+pretty much standing on Darwin's mat, pounding on the door, 
+screaming, "Take me, take me!" -- Carl Jacobs
+%
+Traditional French battle cry: 
+    "We Surrender, here, have my daughter."? -- Paul Tomblin
+%
+What's that word, it means you feel small and red, starts with an M? 
+Management. -- Simon Fraser & Peter da Silva
+%
+"A communications disruption can only mean one thing... Invasion." -- Maguire
+%
+"BTW. Violence, rude language, excessive drinking, paganism. It's hard to 
+ find children's books like that these days." -- Stig Morten Valstad
+%
+"Fear leads to anger. Anger leads to hate. Hate leads to using Windows NT for 
+ mission-critical applications." -- Devin L. Ganger
+%
+"A disturbance of sysadmins. Because if we are, you will be." -- Joe Thompson
+%
+"I'm not lean and mean, I'm surly and anorexic". -- Chris "Saundo" Saunderson
+%
+"Coed Naked Tech Support: You're Never Alone When You're On The 
+ Phone." -- The motto at loyola.edu's helpdesk
+%
+"If USENET is anarchy, IRC is a paranoid schizophrenic after 6 days on 
+ speed." -- Chris "Saundo" Saunderson
+%
+"Me and the caller ID window have a very positive working 
+ relationship." -- Mike Sphar
+%
+"'Lotus Notes for Dummies' is surely a single page pull out with 'don't' 
+ printed on it." -- Unknown
+%
+"In fact, I think "Hello Kitty, Destroyer of Worlds" would be a very 
+ appropriate name for a cruise missile." -- Collin Forbes
+%
+"It might not be practical, it might not be a good idea, but it could work.
+ Sort of like Windows." -- berry
+%
+"Surely the 4 sysadmins of the apocalypse should be: edquota, rm -rf, 
+ kill -9, and shutdown" -- Rob Blake
+%
+"Surely the 4 lusers of the apocalypse should be: advertising, can't log in,
+ power switch, and what backup?" -- Alistair Young 
+%
+"Typical sysadmin day: Hours of endless frustration punctuated by moments of 
+ sheer terror." -- Saul Tannenbaum
+%
+"When I first started working with sendmail, I was convinced that the cf 
+ file had been created by someone bashing their head on the keyboard. After 
+ a week, I realised this was, indeed, almost certainly the case" -- Unknown
+%
+     ThisemailhasbeenbroughttoyoubyJOLTCola,
+     favoredbyssysadmins,netadminsandprogrammerseverywhere.
+     JOLTCola--forallthesugarandtwicethecaffine(R).
+                                         -- Mark P. Beckman 
+%
+"A little rudeness and disrespect can elevate a meaningless interaction into 
+ a battle of wills and add drama to an otherwise dull day."
+%
+"I have come to believe in the Buhddist concept of reincarnation. And I swear 
+ that whatever I did in a past life to deserve this I will *NEVER EVER* do 
+ again." -- BroCaca
+%
+"Irix is about as stable as a one-legged drunk with hypothermia in a four- 
+ hundred mile wind, balancing on a banana peel on a greased cookie sheet. 
+ When someone throws him an elephant with bad breath and a worse 
+ temper." -- Simon Cozens
+%
+"The best answer when anybody asks you if you're any good with explosives is 
+ to hold up two open hands and simply say "Ten"." -- Anthony DeBoer
+%
+"I've found that nurturing one's Zen nature is vital to dealing with 
+ technology. Violence is pretty damn useful too." -- Lionel Lauer
+%
+<phonic> is it legal?
+<cold-fire> dont know, im doing it from bonds box
+%
+"8 hours and 53 minutes without a remote hole in the default install!"
+%
+# The End, by The Beatles
+END {
+  $you->take($love) eq $you->made($love) ;
+}
+%
+"Vu ja dé, the odd feeling nothing has ever happened before..."
+%
+"If you don't want it printed, don't let it happen"
+%
+I am root. If you hear me swearing, save your work and check your 
+backups. (You do have backups, don't you?)
+%
+"Not only that, but Google is fast. In fact, it's quite competitive 
+ with DNS." -- Raph Levien
+%
+"I used to herd dairy cows. Now I herd lusers. Apart from the isolation, I 
+ think I preferred the cows. They were better conversation, easier to milk, 
+ and if they annoyed me enough, I could shoot and eat them." -- R. Donaldson
+%
+"!!! TURKEY SUPPORTERS...DO NOT LET THE TURKEY BE SILENCED !!!" -- GOBBLES
+%
+"Me fail English? Unpossible!" -- x
+%
+"Am I alone in saying: "Fuck Verisign in ways only legal in Haiti"? These 
+ mind numbingly obtuse cocksuckers deserve individually celebrated polyp 
+ reamings with rusty howitzers." -- Scott Paddock
+%
+"Pick a card, any card. Now look at this pile of marbles. You will notice 
+ that your card is not among them! I AM THE AMAZING KARNAK!" -- Crackmonkey
+%
+"VBScript is designed to be a secure programming environment. It lacks various 
+ commands that can be potentially damaging if used in a malicious manner. This
+ added security is critical in enterprise solutions." -- support.microsoft.com
+%
+"Know your limitations. We already do."
+%
+"Home is where your email address is."
+%
+"downtime n. The period during which a system is error-free and immune from 
+ user input." -- Joost
+%
+"What doesn't kill me, makes me stranger." -- from the corrected text
+%
+"OK, so you're a Ph.D.  Just don't touch anything." -- Ron DuFresne
+%
+"Light thinks it travels faster than anything but it is wrong. No matter how 
+ fast light travels it finds the darkness has always got there first, and is 
+ waiting for it." -- Terry Pratchett, Reaper Man
+%
+
