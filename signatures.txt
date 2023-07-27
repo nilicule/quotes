@@ -1,5 +1,8 @@
 <----------------------------------------------------------------------------->
 %
+"Architecture people are solving problems that they think they can solve, not 
+ problems which are useful to solve." -- Joel Spolsky on Architect Astronauts
+%
 "Having Bob on your team is like having two good workers quit."
 %
 "I did not attend his funeral, but I sent a nice letter saying I approved of 
