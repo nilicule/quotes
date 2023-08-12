@@ -1,5 +1,8 @@
 <----------------------------------------------------------------------------->
 %
+"Ichariba chode, Japanese phrase meaning 'though we meet but once, even by 
+ chance, we are friends for life.'"
+%
 "Architecture people are solving problems that they think they can solve, not 
  problems which are useful to solve." -- Joel Spolsky on Architect Astronauts
 %
