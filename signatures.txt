@@ -1,4 +1,5 @@
 <----------------------------------------------------------------------------->
+"People don’t think it be like it is, but it do.” -- Oscar Gamble
 %
 "Yesterday, All those backups seemed a waste of pay. Now my database has gone 
  away. Oh I believe in yesterday. 
