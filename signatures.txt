@@ -1,5 +1,7 @@
 <----------------------------------------------------------------------------->
 %
+"Te futueo et caballum tu."  (screw you and the horse you rode in on)
+%
 "Test early and often" -- Bjarne Stroustrup
 %
 "If you think it's simple, then you have misunderstood the 
