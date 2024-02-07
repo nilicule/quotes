@@ -1,5 +1,8 @@
 <----------------------------------------------------------------------------->
 %
+"New York pizza makes the bad times good, the good times better and the better 
+ times betterer." -- Steve Buscemi
+%
 "Te futueo et caballum tu."  (screw you and the horse you rode in on)
 %
 "Test early and often" -- Bjarne Stroustrup
