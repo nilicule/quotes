@@ -1,5 +1,7 @@
 <----------------------------------------------------------------------------->
 %
+"I just want you to know that personally, I have no problem with you being here"
+%
 "The food she cooked us was so bad I shit out a suicide note from my tapeworm."
 %
 "I wish your mother knew how much of a fucking disappointment she raised."
@@ -773,9 +775,9 @@ Wooden shoe rather be Dutch?
 "Everytime they shut down a torrent site, god murders a lawyer."
 %
 "I once bought my kids a set of batteries for Christmas with a note on it 
- saying: «Toys not included.»" -- Bernard Manning
+ saying: ?Toys not included.?" -- Bernard Manning
 %
-"A much wittier reply came to mind immediately after I clicked the «Send» 
+"A much wittier reply came to mind immediately after I clicked the ?Send? 
  button."
 %
 "Hardware: the parts of a computer that can be kicked." - Jeff Pesis
@@ -868,7 +870,7 @@ whole new meaning to "Winning the war on drugs."
 %
 "If you can't beat them - avoid them."
 %
-"I begynnelsen var verden et spennende sted å oppholde seg. Så kom 
+"I begynnelsen var verden et spennende sted ? oppholde seg. S? kom 
  vitenskapen."
 %
 "The worst foe lies within the self." - Parasite Eve
@@ -1225,8 +1227,8 @@ perversely, with a far greater use of this weapon in crime than ever
 before.
         -- Colin Greenwood, in the study "Firearms Control", 1972
 %
-"But," Matt says, "the server is located on Sealand.  They can't touch 
-me!" "Oh, yes, they can," points out Matt's lawyer. "They might have 
+"But," Matt says, "the server is located on Sealand.? They can't touch 
+me!" "Oh, yes, they can," points out Matt's lawyer.?"They might have 
 difficulty touching your server -- at least for now -- but they can 
 definitely touch you, <...> And, if you're not careful, you'll be sent 
 to a facility where a large man named 'Spike' will also touch you on a 
@@ -1859,7 +1861,7 @@ END {
   $you->take($love) eq $you->made($love) ;
 }
 %
-"Vu ja dé, the odd feeling nothing has ever happened before..."
+"Vu ja d?, the odd feeling nothing has ever happened before..."
 %
 "If you don't want it printed, don't let it happen"
 %
